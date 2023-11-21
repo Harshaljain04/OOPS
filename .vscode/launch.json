@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ASUS ROG/OneDrive/Desktop/OOPS",
-      "program": "c:/Users/ASUS ROG/OneDrive/Desktop/OOPS/build/Debug/outDebug",
+      "cwd": "c:/Users/ASUS ROG/Documents/GitHub/OOPS",
+      "program": "c:/Users/ASUS ROG/Documents/GitHub/OOPS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
