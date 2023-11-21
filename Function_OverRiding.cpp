@@ -16,7 +16,7 @@ class derived:public Base{
 };
 int main()
 {
-    Base A;
-    A.display();  
+    Base B;
+    B.display();  
     return 0;
 }
