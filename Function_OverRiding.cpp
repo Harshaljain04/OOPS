@@ -15,7 +15,7 @@ class derived:public Base{
     }
 };
 
-class extra:public derived, public Base{
+class extra:public derived {
     public:
     void display()
     {
@@ -26,9 +26,9 @@ int main()
 {
     Base B;
     B.display();  
-    Derived D;
+    derived D;
     D.display();
-    Extra C;
+    extra C;
     C.display();
     return 0;
 }
